@@ -1,7 +1,7 @@
 # CwStretch
 “interactive notebook for galaxy Classification with image Stretching”
 
-An easy-to-use tool provides an interactive way to do visual classificaitons for astronomical imaging data. It uses Jupyter widgets and Matplotlib to display multi-filter image cutouts, with controls for stretch, zoom, and contour overlays to guide classificaitons.
+An easy-to-use tool provides an interactive way to do visual classificaitons for astronomical imaging data. It uses Jupyter widgets and Matplotlib to display multi-filter image cutouts, with controls for stretch, zoom, and contour overlays to guide classificaitons. The notebook was originally designed for Guo et al. 2025, and is modified to a more user-friendly version here.
 
 <div style="
     border: 2px solid #e39611ff; 
